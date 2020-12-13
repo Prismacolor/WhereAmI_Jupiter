@@ -23,6 +23,8 @@
     <param name="max_particles" value="1500"/>
     <param name="selective_resampling" value="true"/>
     <param name="laser_max_beams" value="25"/>
+    <param name="laser_z_hit" value=".98"/>
+    <param name="laser_z_rand" value=".02"/>
     <param name="odom_alpha1" value="0.005"/>
     <param name="odom_alpha2" value="0.010"/>
     <param name="odom_alpha3" value="0.025"/>
